@@ -1,8 +1,8 @@
 """
-75 HARD — PyWebIO Tracker
+PROTOCOL 75
 =========================
 
-A clean, minimal 75 Hard tracker with AdvaitAI branding.
+A clean, minimal 75 days tracker 
 
 SETUP
 -----
@@ -10,12 +10,11 @@ SETUP
 
 FILES
 -----
-    75hard_pywebio.py
-    AdvaitAI_logo_trans(4).jpg
+    AdvaitAI_logo.jpg
 
 RUN
 ---
-    python 75hard_pywebio.py
+    python app.py
 
 Then open:
     http://localhost:8080
